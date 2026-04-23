@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">🌿 Hello, I'm [Your Name]</h1>
+<h1 align="center">🌿 Hello, I'm Duchaideptrai</h1>
 <p align="center">
   Taurus • Builder • Calm thinker • Consistent learner
 </p>
@@ -9,7 +9,7 @@
 ## 🪨 About Me
 - 🌱 Taurus mindset: slow but steady growth
 - 💻 Passion: IoT / AI / Embedded Systems
-- ⚙️ Currently working on: [your project]
+- ⚙️ Currently working on: Meiko Electronic
 - 📍 Based in Vietnam
 
 ---
